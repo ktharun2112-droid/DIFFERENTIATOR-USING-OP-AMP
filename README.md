@@ -50,10 +50,13 @@ DIFFERENTIATOR
 <img width="757" height="447" alt="image" src="https://github.com/user-attachments/assets/3bb38583-c020-43ad-8b15-c03f1f545842" />
 
 TABULATION:
+![IMG_20251203_142712 1](https://github.com/user-attachments/assets/4c462174-7ecd-483f-b38b-f16049829458)
 
 
 GRAPH:
+![IMG_20251203_142725 1](https://github.com/user-attachments/assets/ffc7331e-648f-467d-88c2-a83c044516a2)
 
 
 RESULT:
+![IMG_20251203_142730 1](https://github.com/user-attachments/assets/83d73b40-8c07-484b-a41a-915c3c96622e)
 
